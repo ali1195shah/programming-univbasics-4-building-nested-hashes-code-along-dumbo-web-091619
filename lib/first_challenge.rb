@@ -1,7 +1,6 @@
 require 'pry'
 
-epic_tragedy = 
-{
+epic_tragedy = {
   :montague => {},
   :capulet => {}
 }
